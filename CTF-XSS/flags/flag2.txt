@@ -1,0 +1,2 @@
+FLAG{stored_xss_8c7a1b}
+Description: Well done! You've exploited a stored XSS vulnerability by injecting a persistent payload.

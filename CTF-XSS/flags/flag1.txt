@@ -1,0 +1,2 @@
+FLAG{reflected_xss_42df9d}
+Description: Congratulations! You've successfully exploited the basic reflected XSS vulnerability.

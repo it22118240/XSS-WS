@@ -1,0 +1,2 @@
+FLAG{dom_xss_ae99f3}
+Description: Excellent! You've exploited a DOM-based XSS vulnerability by manipulating client-side code.

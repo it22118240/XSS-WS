@@ -1,0 +1,2 @@
+FLAG{url_encoded_xss_3e8f9a}
+Description: You cracked it! This challenge involved triggering XSS using URL encoding techniques.
